@@ -1,4 +1,6 @@
 # Mobility Intelligence Code Challenge
+You will be joining a team (MI) responsible to build a product enabling users to plan mobility solutions with ease and confidence. We are analysing and visualising mobility data to find the optimal solution to improve public transportation in cities and rural areas, and working on finding the most efficient solutions to our stakeholders’ problems in close collaboration with them.
+
 One of the ways the MI team evaluates a potential Ridepooling service is by simulating said service, calculating the resulting [KPIs](https://en.wikipedia.org/wiki/Performance_indicator), and presenting them to the stakeholders to make decisions.
 
 
