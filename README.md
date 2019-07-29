@@ -13,7 +13,7 @@ The code should not only fulfill the functional requirements but also be product
 ### Requirements
 - A webpage where the user can trigger a simulation and see its results visualized.
 - An API where we can trigger the simulation and get the results back.
-- All the results of the simulation visalized. It's up to you to choose how to visualize the data and justify your choices.
+- All the results of the simulation visualized. It's up to you to choose how to visualize the data and justify your choices.
 
 The documentation for the Simulator can be found in the `simulator` directory.
 
