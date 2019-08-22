@@ -13,7 +13,7 @@ class Simulator:
     def simulate(self, number_of_requests):
         booking_distance_bins = self.get_booking_distance_bins(
             number_of_requests)
-        number_of_sample_points = max(
+        number_of_sample_points = min(
             number_of_requests, self.max_popular_points)
         most_popular_dropoff_points = self.get_random_points(
             number_of_sample_points)
