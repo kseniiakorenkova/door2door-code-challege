@@ -1,2 +1,5 @@
-geopandas==0.5.0
-Shapely==1.6.4.post2
+geopandas
+Shapely
+Flask
+flask_cors
+json5
